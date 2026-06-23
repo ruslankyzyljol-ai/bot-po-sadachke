@@ -15,18 +15,18 @@ ADMIN_IDS = [123456789]
 #        болбосо подпискасын текшере албайт !!!
 CHANNELS = [
     {
-        "chat_id": "@kanal_1_username",
-        "url": "https://t.me/kanal_1_username",
+        "chat_id": "@profixkg",
+        "url": "https://t.me/profixkg",
         "title": {"ky": "1-канал", "ru": "1-й канал"},
     },
     {
-        "chat_id": "@kanal_2_username",
-        "url": "https://t.me/kanal_2_username",
+        "chat_id": "@sarabotikkg",
+        "url": "https://t.me/sarabotikkg",
         "title": {"ky": "2-канал", "ru": "2-й канал"},
     },
     {
-        "chat_id": "@kanal_3_username",
-        "url": "https://t.me/kanal_3_username",
+        "chat_id": "@muzik55tt",
+        "url": "https://t.me/muzik55tt",
         "title": {"ky": "3-канал", "ru": "3-й канал"},
     },
 ]
