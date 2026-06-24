@@ -54,7 +54,7 @@ CHANNELS = [
 ]
 
 # 4) Колдоо (поддержка) үчүн контакт - @username же телефон (ENV: SUPPORT_CONTACT)
-SUPPORT_CONTACT = _get_env("SUPPORT_CONTACT", "@your_support_username")
+SUPPORT_CONTACT = _get_env("SUPPORT_CONTACT", "https://t.me/trasferkg")
 
 # 5) Маалымат базасынын файлы (өзгөртпөй коюуга болот)
 DB_PATH = "bot.db"
